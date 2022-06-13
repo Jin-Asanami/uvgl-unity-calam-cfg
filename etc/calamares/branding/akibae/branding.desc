@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         "Akibae OS"
-    shortProductName:    Akibae
+    productName:         "Univalent GNU/Linux"
+    shortProductName:    UVGL
     version:             Rolling
     #shortVersion:        
-    versionedName:       Akibae OS 
-    shortVersionedName:  Akibae OS
-    bootloaderEntryName: Akibae
+    versionedName:       Univalent GNU/Linux
+    shortVersionedName:  UVGL
+    bootloaderEntryName: Univalent
     #productUrl:          https://calamares.io/
     #supportUrl:          https://github.com/calamares/calamares/wiki
     #knownIssuesUrl:      https://github.com/calamares/calamares/issues
